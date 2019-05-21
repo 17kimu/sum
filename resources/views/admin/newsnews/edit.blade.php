@@ -1,0 +1,9 @@
+<!DOCTYPE>
+    <html>
+       <head>
+           <title>Myプロフィールの新規作成</title>
+         <body>
+           <h2>Myプロフィールの新規作成</h2>
+         </body>
+      </head>
+    </html>
